@@ -1,0 +1,11 @@
+D:\Scuola\BattagliaNavale\BattagliaNavale\bin\Debug\BattagliaNavale.exe.config
+D:\Scuola\BattagliaNavale\BattagliaNavale\bin\Debug\BattagliaNavale.exe
+D:\Scuola\BattagliaNavale\BattagliaNavale\bin\Debug\BattagliaNavale.pdb
+D:\Scuola\BattagliaNavale\BattagliaNavale\obj\Debug\BattagliaNavale.csprojAssemblyReference.cache
+D:\Scuola\BattagliaNavale\BattagliaNavale\obj\Debug\BattagliaNavale.Properties.Resources.resources
+D:\Scuola\BattagliaNavale\BattagliaNavale\obj\Debug\BattagliaNavale.csproj.GenerateResource.cache
+D:\Scuola\BattagliaNavale\BattagliaNavale\obj\Debug\BattagliaNavale.csproj.CoreCompileInputs.cache
+D:\Scuola\BattagliaNavale\BattagliaNavale\obj\Debug\BattagliaNavale.exe
+D:\Scuola\BattagliaNavale\BattagliaNavale\obj\Debug\BattagliaNavale.pdb
+D:\Scuola\BattagliaNavale\BattagliaNavale\obj\Debug\BattagliaNavale.Lobby.resources
+D:\Scuola\BattagliaNavale\BattagliaNavale\obj\Debug\BattagliaNavale.Coordinate.resources
